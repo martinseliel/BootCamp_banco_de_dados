@@ -2,10 +2,11 @@
 bootcamp Dio - banco de dados
 
 
-# Implementação
+# Implementação.
 
-##Cliente
-no modelo segue doi tipo de cliente sendo pessoa fisica e pessoa juridica.
+## Cliente.<br>
+
+No modelo segue dois tipo de cliente sendo pessoa fisica e pessoa juridica.<br>
 > na escolha de pessoa fisica:
 1º Nome da pessoa
 2º Endereço
