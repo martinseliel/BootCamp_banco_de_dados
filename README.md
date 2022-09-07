@@ -26,4 +26,5 @@ A empresa efetuara a escolha da disciplina a ser cursada, a instituição de ens
 ## Pagamento.<br>
 No ato do pagamento tera indetificação e tipo de pagamento de acordo com as regras.<br>
 status do pagamento - comprovante - registro de pagamento.<br>
-aprovado: o cliente passa a ser aluno.<br>
+Aprovado: passa para o status Matriculado.<br>
+Cliente passa a ser aluno.<br>
