@@ -24,6 +24,6 @@ A empresa efetuara a escolha da disciplina a ser cursada, a instituição de ens
 4º valor da disciplina com desconto.<br>
 
 ## Pagamento.<br>
-No ato do pagamento tera indetificação e tipo de pagamento deacordo com as regras.
-status do pagamento - comprovante - registro de pagamento.
-aprovado: o cliente passa a ser aluno
+No ato do pagamento tera indetificação e tipo de pagamento deacordo com as regras.<br>
+status do pagamento - comprovante - registro de pagamento.<br>
+aprovado: o cliente passa a ser aluno.<br>
